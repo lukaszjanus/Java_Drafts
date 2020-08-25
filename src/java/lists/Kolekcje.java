@@ -35,7 +35,6 @@ public class Kolekcje {
 		
 		kolekcje_obiekty();
 	}
-
 	
 	/**
 	 * Kolekcje - sortowanie obiektow

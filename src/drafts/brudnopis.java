@@ -5,7 +5,7 @@ import java.time.LocalDate;
 
 /**
  * 
- * @title brudnopis - różne ćwiczenia 
+ * @title drafts 
  *
  * @date 25 sie 2020
  *

@@ -16,7 +16,6 @@ import java.util.regex.*;
  *
  */
 public class Solution {
-
 	/*
 	 * Complete the getMoneySpent function below.
 	 */

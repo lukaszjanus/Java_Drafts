@@ -5,7 +5,6 @@ import java.util.Queue;
 import java.util.Stack;
 
 /**
- * 
  * @title tutorial:
  * - stos (stack FI-LO)
  * - kolejka (queue - FI-FO)

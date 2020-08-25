@@ -11,7 +11,6 @@ package java.miscellaneous;
 public class Klasa_referencja {
 
 	
-	
 	public static void main(String[] args) {
 		int[] tab = { 2, 4 };
 		System.out.println("Main: " + tab[0]);

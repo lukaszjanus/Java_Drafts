@@ -20,7 +20,6 @@ public class Animal implements Comparable<Animal>{
 	 */
 	public Animal(String imie) {
 		this.imie=imie;
-		
 	}
 	
 	
