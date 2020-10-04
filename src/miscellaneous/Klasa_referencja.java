@@ -1,4 +1,4 @@
-package java.miscellaneous;
+package miscellaneous;
 
 /**
  * @title modyfikowanie w metodzie tablicy jako referencji

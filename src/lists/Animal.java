@@ -1,4 +1,4 @@
-package java.lists;
+package lists;
 
 /**
  * @title klasa do cwiczen z listami

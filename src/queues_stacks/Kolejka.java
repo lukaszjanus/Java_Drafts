@@ -1,4 +1,4 @@
-package java.queues_stacks;
+package queues_stacks;
 
 import java.util.ArrayDeque;
 import java.util.Queue;
@@ -20,7 +20,7 @@ public class Kolejka {
 		
 		//kolejka();
 		
-		//stos();
+		stos();
 		
 	}
 
